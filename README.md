@@ -1,6 +1,6 @@
-Facebook Graph API
+Facebook SDK
 ------------------
-This facebook-graph-api sdk with python 3++
+This facebook api sdk with python 3++
 
 SetUp
 -----
