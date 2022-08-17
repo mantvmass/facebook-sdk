@@ -1,13 +1,16 @@
 Facebook SDK
 ------------------
-This facebook api sdk with python 3++
+This client library is designed to support the Facebook Graph API and Facebook JavaScript SDK
 
-SetUp
+Install
 -----
 ```shell
 # manual install
+git clone https://github.com/mantvmass/facebook-sdk
+cd facebook-sdk
 python setup.py install
-
-# pip install
-# in process
 ```
+
+License
+-------
+[Apache License, version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
