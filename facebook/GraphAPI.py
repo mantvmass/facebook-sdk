@@ -19,7 +19,7 @@ HOST_GRAPH = "https://graph.facebook.com/"
 
 class GraphAPI(object):
 
-    def __init__(self,access_token=None,) -> None:
+    def __init__(self,access_token) -> None:
         self.access_token = access_token
 
     def _payload(self, id, data) -> str:
